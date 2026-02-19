@@ -3,8 +3,9 @@ name: efficiency-analysis
 description: Systematically identify waste, redundancy, and inefficiency in operations, processes, or systems and calculate compound savings potential at scale.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3881
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - efficiency-analysis
 - writing
